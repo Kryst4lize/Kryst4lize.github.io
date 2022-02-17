@@ -18,7 +18,7 @@ darkmode: true
 github_username:  Kryst4lize
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: Krystal0801
 # flickr_username: jekyll
 linkedin_username: thanh-minh-lê-07679a218
 # xing_username: jekyll
@@ -74,6 +74,14 @@ content:
           Được trải nghiệm một môi trường học tập cực kì căng thẳng và thoải mái. Chính ở đây cũng cho mình thấy rằng tài năng thôi là chưa đủ, dù đi bằng mọi con đường thì nỗ lực và đam mê mới là thứ khiến con người ta đi đến được cuối hành trình*
 
           Thành tích tốt nhất mình đạt tại trường là giải <mark>Khuyến Khích quốc gia môn Vật Lý</mark> và <mark>giải Nhất thành phố môn vật lý</mark>.
+      - layout: left
+        title: VNUHCM - University of Information Technology (UIT) 
+        caption: 2021 - 2025
+        sub_title: Bachelor of Computer Science (Honor Degree)
+        quote: >
+          Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam.
+        description: | # this will include new lines to allow paragraphs
+          Mình hi vọng với kiến thức được thầy cô truyền lại, cùng với sự đam mê, tò mò vốn có của mình giúp mình thực hiện ước mơ của mình trong những năm sắp tới
      
 
   - title: Sở thích
