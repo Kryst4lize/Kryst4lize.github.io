@@ -21,7 +21,7 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-linkedin_username: Thanh Minh Lê
+linkedin_username: thanh-minh-lê-07679a218
 # xing_username: jekyll
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
@@ -46,10 +46,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Là một thành viên khóa K16 của trường Công Nghệ Thông Tin - DHQG HCM
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+- Họ và tên: Lê Thanh Minh
+- MSSV: 21520063
+- Ngày sinh: 8/01/2003
+- Địa chỉ: Liên Chiểu, Đà Nẵng 
+- Kĩ năng: Biết về <mark>C++</mark>, <mark>HTML</mark>, <mark>HTML</mark> và <mark>CSS</mark>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
