@@ -6,13 +6,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Lê Thanh Minh
+title: Undergraduate of VNUHCM-University of Information Technology
+email: 21520063@gm.uit.edu.vn
+website: https://github.com/Kryst4lize
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
@@ -21,11 +21,9 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: Thanh Minh Lê
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
