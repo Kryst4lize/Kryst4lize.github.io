@@ -62,9 +62,8 @@ content:
   - title: Giới thiệu  # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: "Cuộc sống như một trò chơi"
-        link: github.com/Kryst4lize
+      - layout: left
+        title: Cuộc sống như một trò chơi
         description: | # this will include new lines to allow paragraphs
           Mình luôn hứng thú và tò mò với mọi thứ xung quanh, vì vậy mình chỉ muốn trải nghiệm những thứ mà mình có thể, nhưng dù là trò chơi nào thì mục đích là để hạnh phúc, vì vậy hãy chơi những gì mọi người đều hạnh phúc (trừ code ra, code không làm mọi người hạnh phúc đâu :> ).
   - title: Education # Title for the section
@@ -79,16 +78,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Được trải nghiệm một môi trường học tập cực kì căng thẳng và thoải mái. Chính ở đây cũng cho mình thấy rằng tài năng thôi là chưa đủ, dù đi bằng mọi con đường thì nỗ lực và đam mê mới là thứ khiến con người ta đi đến được cuối hành trình*
 
-          Thành tích tốt nhất mình đạt tại trường là giải <mark>Khuyến Khích quốc gia môn Vật Lý</mark> và <mark>giải Nhất thành phố môn vật lý</mark> 
-    content:
-       - layout: left
-          title: VNUHCM - University of Information Technology (UIT) 
-          caption: 2021 - 2025
-          sub_title: Bachelor of Computer Science (Honor Degree)
-          quote: >
-           Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam.
-          description: | # this will include new lines to allow paragraphs
-           Mình hi vọng với kiến thức được thầy cô truyền lại, cùng với sự đam mê, tò mò vốn có của mình giúp mình thực hiện ước mơ của mình trong những năm sắp tới
+          Thành tích tốt nhất mình đạt tại trường là giải <mark>Khuyến Khích quốc gia môn Vật Lý</mark> và <mark>giải Nhất thành phố môn vật lý</mark>.
 
   - title: Sở thích
     layout: text
