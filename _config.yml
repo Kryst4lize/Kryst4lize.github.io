@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  Kryst4lize
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -46,32 +46,21 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Là một thành viên khóa K16 của trường Công Nghệ Thông Tin - DHQG HCM
-
-- Họ và tên: Lê Thanh Minh
-- MSSV: 21520063
-- Ngày sinh: 8/01/2003
-- Địa chỉ: Liên Chiểu, Đà Nẵng 
-- Kĩ năng: Biết về <mark>C++</mark>, <mark>HTML</mark>, <mark>HTML</mark> và <mark>CSS</mark>
+  Là một thành viên khóa <mark>K16</mark> của trường Công Nghệ Thông Tin - DHQG HCM
+  - Họ và tên: Lê Thanh Minh
+  - MSSV: 21520063
+  - Ngày sinh: 8/01/2003
+  - Địa chỉ: Liên Chiểu, Đà Nẵng 
+  - Kĩ năng: Biết về <mark>C++</mark>, <mark>HTML</mark>, <mark>HTML</mark> và <mark>CSS</mark>
 content:
-  - title: Projects # Title for the section
+  - title: Giới thiệu  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        title: "Cuộc sống như một trò chơi"
+        link: github.com/Kryst4lize
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Mình luôn hứng thú và tò mò với mọi thứ xung quanh, vì vậy mình chỉ muốn trải nghiệm những thứ mà mình có thể, nhưng dù là trò chơi nào thì mục đích là để hạnh phúc, vì vậy hãy chơi những gì mọi người đều hạnh phúc (trừ code ra, code không làm mọi người hạnh phúc đâu :> ).
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,27 +80,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Le Quy Don Highschool for the gifted 
+        caption: 2018 - 2021
+        sub_title: Physics major
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Là một ngôi trường trọng điểm miền trung, với cơ sở vật chất hiện đại, đội ngũ giáo viên nhiều kinh nghiệm cùng chất lượng đầu vào của học sinh cao đã trở thành một trong những môi trường học tập tốt nhất khu vực miền trung.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Được trải nghiệm một môi trường học tập cực kì căng thẳng và thoải mái. Chính ở đây cũng cho mình thấy rằng tài năng thôi là chưa đủ, dù đi bằng mọi con đường thì nỗ lực và đam mê mới là thứ khiến con người ta đi đến được cuối hành trình*
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Thành tích tốt nhất mình đạt tại trường là giải <mark>Khuyến Khích quốc gia môn Vật Lý</mark> và <mark>giải Nhất thành phố môn vật lý</mark> 
+    content:
+       - layout: left
+          title: VNUHCM - University of Information Technology (UIT) 
+          caption: 2021 - 2025
+          sub_title: Bachelor of Computer Science (Honor Degree)
+          quote: >
+           Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam.
+          description: | # this will include new lines to allow paragraphs
+           Mình hi vọng với kiến thức được thầy cô truyền lại, cùng với sự đam mê, tò mò vốn có của mình giúp mình thực hiện ước mơ của mình trong những năm sắp tới
 
-  - title: A Little More About Me
+  - title: Sở thích
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+       - Đọc light novel, đọc các tác phẩm kinh điển như War and Peace , Hả ri pót tơ và mây mây
+       - League of legends, CS:Go, FO4, ... và cả tá tựa game bạn có thể nghĩ ra :3. Tin mình đi, game nào bạn chơi game đó có mình :>
+       - Chơi bóng chuyền. Hic bộ môn này mình ko giỏi nhưng mà mình siêu ghiền hihi
+       
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
