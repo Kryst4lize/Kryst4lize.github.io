@@ -47,11 +47,17 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Là một thành viên khóa <mark>K16</mark> của trường Công Nghệ Thông Tin - DHQG HCM
+  
   - Họ và tên: Lê Thanh Minh
+  
   - MSSV: 21520063
-  - Ngày sinh: 8/01/2003
-  - Địa chỉ: Liên Chiểu, Đà Nẵng 
+  
+  - Ngày sinh: 08/01/2003
+  
+  - Địa chỉ: Liên Chiểu, Đà Nẵng
+  
   - Kĩ năng: Biết về <mark>C++</mark>, <mark>HTML</mark>, <mark>HTML</mark> và <mark>CSS</mark>
+  
 content:
   - title: Giới thiệu  # Title for the section
     layout: list # Type of content section (list/text)
@@ -61,21 +67,6 @@ content:
         link: github.com/Kryst4lize
         description: | # this will include new lines to allow paragraphs
           Mình luôn hứng thú và tò mò với mọi thứ xung quanh, vì vậy mình chỉ muốn trải nghiệm những thứ mà mình có thể, nhưng dù là trò chơi nào thì mục đích là để hạnh phúc, vì vậy hãy chơi những gì mọi người đều hạnh phúc (trừ code ra, code không làm mọi người hạnh phúc đâu :> ).
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -102,13 +93,11 @@ content:
   - title: Sở thích
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
        - Đọc light novel, đọc các tác phẩm kinh điển như War and Peace , Hả ri pót tơ và mây mây
-       - League of legends, CS:Go, FO4, ... và cả tá tựa game bạn có thể nghĩ ra :3. Tin mình đi, game nào bạn chơi game đó có mình :>
-       - Chơi bóng chuyền. Hic bộ môn này mình ko giỏi nhưng mà mình siêu ghiền hihi
        
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+       - League of legends, CS:Go, FO4, ... và cả tá tựa game bạn có thể nghĩ ra :3. Tin mình đi, game nào bạn chơi game đó có mình :>
+       
+       - Chơi bóng chuyền. Hic bộ môn này mình ko giỏi nhưng mà mình siêu ghiền hihi
 
 # Footer
 footer_show_references: true
